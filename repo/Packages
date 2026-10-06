@@ -1,0 +1,30 @@
+Package: com.user.xmrig-app
+Version: 6.26.9
+Architecture: iphoneos-arm
+Maintainer: User
+Depends: ldid
+Filename: ./com.user.xmrig-app_6.26.9_iphoneos-arm.deb
+Size: 23694
+MD5sum: 359acdc66cf6155effe809f465cbb630
+SHA1: 93a4682b8e2808f8c4078edb43914cf50f5f78cd
+SHA256: 0e85b567d8b7de7636b0d226d0f85cf08c9630951e54d24595fb38a1d5e00f27
+Section: Utilities
+Priority: optional
+Description: XMRig iOS 挖矿控制 App,桌面图标,配合保活包使用。
+Name: XMRig App
+
+Package: com.user.xmrig-daemon
+Version: 6.26.5
+Architecture: iphoneos-arm
+Maintainer: User
+Depends: ldid
+Filename: ./com.user.xmrig-daemon_6.26.5_iphoneos-arm.deb
+Size: 1027972
+MD5sum: ef0cf0179263a6142480be26c35fe055
+SHA1: 8e2ceef198be6bc495d7dcc145b44267f0a9fe13
+SHA256: 3a8b3e6c716bffea9ff5aef19de5e82e14cd2c6dc1eb9377c3d9c519618da13a
+Section: Utilities
+Priority: optional
+Description: XMRig iOS 挖矿后台保活服务,无设置界面,配合 XMRig App 使用。
+Name: XMRig Daemon (保活)
+

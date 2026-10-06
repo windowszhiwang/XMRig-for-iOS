@@ -1,0 +1,4 @@
+sdks/
+output/
+*.log
+.DS_Store
